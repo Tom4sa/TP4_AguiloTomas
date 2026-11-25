@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4935479504088099092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3432401550182100168, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.18352829
+      objectReference: {fileID: 0}
+    - target: {fileID: -3432401550182100168, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.023512911
+      objectReference: {fileID: 0}
+    - target: {fileID: -2389525917609993686, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.11310849
+      objectReference: {fileID: 0}
+    - target: {fileID: -2389525917609993686, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.008398315
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_Name
+      value: Modelo_Vampire A Lusth@Standing Idle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559285840627121667, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.20651998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559285840627121667, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5097907
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 711e22684d521fe4fb36cc554f122fc0, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'mixamorig:Hips'\n\tTransform 'mixamorig:LeftFoot'\n\tTransform
+        'mixamorig:Spine1'\n\tTransform 'mixamorig:RightArm'\n\tTransform 'mixamorig:LeftLeg'\n\tTransform
+        'mixamorig:LeftShoulder'\n\tTransform 'mixamorig:RightFoot'\n\tTransform
+        'mixamorig:Head'\n\tTransform 'mixamorig:LeftUpLeg'\n\tTransform 'mixamorig:LeftArm'\n\tand
+        more ...\n\tFrom animation clip 'Big Hit To Head'"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447082967072642302, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7517877
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447082967072642302, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.1315469
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447082967072642302, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.53349465
+      objectReference: {fileID: 0}
+    - target: {fileID: 8447082967072642302, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.3645465
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4e2ff90f49ee5da46ac8f270c17a2336, type: 3}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Sanador
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Sanador
-  modelPrefab: {fileID: 0}
+  modelPrefab: {fileID: 8220869339863642729, guid: 809efd7a610be874195e8e42351a38af, type: 3}
   maxHp: 90
   maxMp: 50
   attack: 14

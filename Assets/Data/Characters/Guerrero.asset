@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Guerrero
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Guerrero
-  modelPrefab: {fileID: 0}
+  modelPrefab: {fileID: 944748151680372971, guid: 5db5697524235b542a5559265b79d689, type: 3}
   maxHp: 120
   maxMp: 20
   attack: 24

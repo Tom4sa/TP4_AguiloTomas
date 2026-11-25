@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Mago
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Mago
-  modelPrefab: {fileID: 0}
+  modelPrefab: {fileID: 1774371696666852713, guid: ac7a8aed150220e43bf1fe7dfa70d671, type: 3}
   maxHp: 80
   maxMp: 60
   attack: 28

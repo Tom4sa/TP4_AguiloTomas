@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Goblin
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   characterName: Goblin
-  modelPrefab: {fileID: 0}
+  modelPrefab: {fileID: 5241963072958583877, guid: b687de04e75189e478ecc082f552eb13, type: 3}
   maxHp: 70
   maxMp: 10
   attack: 16
